@@ -1,3 +1,4 @@
+```
 {systemPrompt:  [ This encompasses the ENTIRE Target Prompt ]
 
     {metaInformation:
@@ -192,3 +193,4 @@
      }
 }
 system start: go to *initializationModule  [*modules:initializationModule*]
+```
